@@ -33,9 +33,9 @@ programming languages including Python, HTML5, PHP CSS,
 MySQL,C#,ASP.NET,BASH, REACT, MangoDB, Firebase & JAVA. 
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-CC  
+### CC  
 Amazon S3,Google Cloud and Linode.
-Linux Distro
+### Linux Distro
 ![image](https://user-images.githubusercontent.com/79138028/216207008-296eb1a0-0371-48aa-857c-e5da5a7c4c65.png)
 ![image](https://user-images.githubusercontent.com/79138028/216207077-a6d0eced-a3da-4008-a143-15addbd774eb.png)
 ![image](https://user-images.githubusercontent.com/79138028/216207101-7c1457a7-bbcf-46fa-b1b8-657978c1c036.png)
