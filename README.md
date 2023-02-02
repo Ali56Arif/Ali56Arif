@@ -36,8 +36,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ### CC  
 Amazon S3,Google Cloud and Linode.
 ### Linux Distro
-![image](https://user-images.githubusercontent.com/79138028/216207008-296eb1a0-0371-48aa-857c-e5da5a7c4c65.png)
-![image](https://user-images.githubusercontent.com/79138028/216207077-a6d0eced-a3da-4008-a143-15addbd774eb.png)
+![image](https://user-images.githubusercontent.com/79138028/216207008-296eb1a0-0371-48aa-857c-e5da5a7c4c65.png) | 
+![image](https://user-images.githubusercontent.com/79138028/216207077-a6d0eced-a3da-4008-a143-15addbd774eb.png) |
 ![image](https://user-images.githubusercontent.com/79138028/216207101-7c1457a7-bbcf-46fa-b1b8-657978c1c036.png)
 ![image](https://user-images.githubusercontent.com/79138028/216207128-d7c660a7-4e4f-40f8-a82a-f81b481e00b6.png)
 ![image](https://user-images.githubusercontent.com/79138028/216207148-117b3e9b-9195-46f8-a2cc-a64fda6f3bb2.png)
