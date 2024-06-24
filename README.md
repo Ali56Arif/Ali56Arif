@@ -24,16 +24,9 @@
 
 
 ### Glad to see you here!  
-Expert Technical Skills for computer hardware and software, even
-mobile troubleshooting,
-also network security.
-Web Developer . Experienced with all stages of the development
-cycle for dynamic web projects. Well-versed in numerous
-programming languages including Python, HTML5, PHP CSS,
-MySQL,C#,ASP.NET,BASH, REACT, MangoDB, Firebase & JAVA. 
-
+Cybersecurity Enthusiast.
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-### CC  
+### Cloud Computing 
 Amazon S3,Google Cloud and Linode.
 ### Linux Distro
 ![image](https://user-images.githubusercontent.com/79138028/216207008-296eb1a0-0371-48aa-857c-e5da5a7c4c65.png) | 
