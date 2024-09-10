@@ -128,4 +128,4 @@ Amazon S3,Google Cloud and Linode.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">visit  <a href="https://ayatiin.com/" target="_blank">Ayatiin Academy</a></div>
